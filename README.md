@@ -2,6 +2,6 @@
 
 Group member:
 
-Johnny Lai - johnnylaicode
+Sunqiao Lin - Sunqiaol
 
-[Link to website](https://johnnylaicode.github.io/assignment1/)
+[Link to website](https://Sunqiaol.github.io/assignment1/)
