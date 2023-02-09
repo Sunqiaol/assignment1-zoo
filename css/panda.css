@@ -1,6 +1,11 @@
 body {
     font-family: Courier New;
-    background-color: silver;
+    background-color: rgb(160, 17, 17);
     text-align: center;
   }
+
+img{
+  width: 500;
+  height: auto
+}
   
