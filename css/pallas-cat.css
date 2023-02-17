@@ -1,6 +1,6 @@
 body {
     font-family: Courier New;
-    background-color: rgb(160, 17, 17);
+    background-color: rgb(134, 251, 206);
     text-align: center;
   }
 
@@ -9,3 +9,7 @@ img{
   height: auto;
 }
 
+
+p{
+    color:rgb(53, 52, 50);
+}
